@@ -1,0 +1,48 @@
+Body {
+  background-color: #FFC4EB;
+}
+
+p{
+  text-align: center;
+  color: white;
+  font-size: 400%;
+}
+
+hi{
+  color: white;
+}
+
+img{
+  text-align: center;
+  width: 30%}
+
+ul{
+  color: white;
+  text-align: center;
+font-size: 100%
+}
+
+h2{
+  color:#DC6ACF;
+  text-align: center;
+  font-size: 300%
+}
+
+img 2{ 
+  width: 100%
+}
+
+h3{
+  color=#6D72C3;
+  text-align: center
+}
+
+li{
+  text-align:left;
+}
+
+h4{
+  text-align: left;
+    color: #6D72C3;
+  font-size: 200%
+}
